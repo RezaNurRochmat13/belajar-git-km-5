@@ -1,1 +1,0 @@
-console.log("Ini Aswangga Bhanu Rizqullah")
