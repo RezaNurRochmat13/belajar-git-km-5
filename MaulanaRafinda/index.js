@@ -14,3 +14,5 @@ nilai2 = "10"; // Kongkatinet adalah penggabungan string.
 hasil = nilai1 + nilai2;
 console.log(hasil);
 
+console.log(" Hello world");
+
